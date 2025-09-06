@@ -73,9 +73,9 @@ License: copyright commercial
   --headings-color: #0f0f0f;
   --link-color: var(--headings-color);
   --link-hover-color: var(--headings-color);
-  --text-font: "Manrope", sans-serif;
-  --title-font: "Cinzel", serif;
-  --script-font: "Great Vibes", cursive;
+  --text-font: "Montserrat", sans-serif;
+  --title-font: "Montserrat", sans-serif;
+  --script-font: "Montserrat", sans-serif;
   --body-font-size: 16px;
   --body-line-height: 28px;
   --body-font-weight: 400;
@@ -4806,7 +4806,7 @@ Section Title
   position: relative;
   color: #444444;
   font-family: var(--text-font);
-  font-weight: 800;
+  font-weight: 400;
   font-size: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
